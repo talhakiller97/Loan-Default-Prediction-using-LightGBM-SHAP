@@ -123,14 +123,3 @@ Talha Saeed
 Data Scientist | Python ML Developer
 📍 Sharjah
 🔗 GitHub
-
-📬 Feedback
-Feel free to open issues or suggestions to improve model performance or interpretability.
-
-yaml
-Copy
-Edit
-
----
-
-Let me know if you'd like me to create a `requirements.txt` or convert this into a Jupyter Notebook version with markdown cells and visual outputs.
