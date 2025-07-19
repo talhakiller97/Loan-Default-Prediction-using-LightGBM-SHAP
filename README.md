@@ -73,12 +73,6 @@ The goal of this project is to:
 
 --- LightGBM --- Precision: 0.8043 Recall: 0.8176 F1 Score: 0.8109
 
-yaml
-Copy
-Edit
-
----
-
 ## 🔍 Explainability
 
 SHAP (SHapley Additive exPlanations) was used to explain the top 100 test samples.
